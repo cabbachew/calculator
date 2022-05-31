@@ -1,3 +1,9 @@
+// To-do:
+// - Round long answers with long decimals to prevent overflow
+// - Add keyboard support
+// ? Repeat operation when "=" is pressed
+// ? Prevent division by 0
+
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement;
