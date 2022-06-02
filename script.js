@@ -1,6 +1,7 @@
 // To-do:
 // - Round long answers with long decimals to prevent overflow
 // - Add keyboard support
+// - Replace operation when another operation is clicked
 // ? Repeat operation when "=" is pressed
 // ? Prevent division by 0
 
